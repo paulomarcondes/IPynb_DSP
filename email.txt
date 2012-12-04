@@ -1,0 +1,36 @@
+De: Steve Smith <Steve.Smith@Tek84.com>
+Assunto: Re: Derivative work from DSPGuide?
+Data: 3 de dezembro de 2012 21:54:55 BRST
+Para: Paulo Marcondes <paulomarcondes@gmail.com>
+
+Hi Paulo,
+Yes this is fine, thanks for asking.   Good luck with your DSP studies and let me know if I can answer any questions!
+Regards,
+Steve
+
+
+
+On 12/3/2012 3:36 PM, Paulo Marcondes wrote:
+Hello, Mr Smith,
+
+I just stared studying DSP per your book.
+I found praise for your book and decided to start my endeavor in DSP through it.
+
+Then I thought that one of the best ways to learn something is to do it, so I decided to also learn some python.
+In order to do so, I installed python on my computer and started working on a notebook.
+
+I wish to share it, so others can benefit, and maybe I can learn a bit more from others.
+Inspired by http://github.com/unpingco/Python-for-Signal-Processing, 
+I set up a code repository at http://bitbucket.org/pmarc/dspg_ipynb
+
+I want to know if this is still considered fair use, or if this is acceptable.
+Also, I wish to license my notebooks with a Creative Commons CC-BY-SA. If that is acceptable, please advise.
+Obviously, I am linking to your book website.
+
+Yes, I mention "work" in the home page of the repository.
+I do work for an oil company as a geophysicist, and have found that my ignorance of DSP hinders my performance.
+
+Thanks,
+
+Paulo Marcondes.
+
