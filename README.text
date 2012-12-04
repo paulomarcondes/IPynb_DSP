@@ -13,6 +13,10 @@ Since Python is a modern language and widely used, it made for a good candidate.
 
 Inspired on [this github repo](http://github.com/unpingco/Python-for-Signal-Processing), I set out myself to study the DSP Guide, by writing these notebooks, with the dual purpose of learning DSP and Python.
 
+## Viewing Notebooks
+
+If you don't happen to have the IPython notebooks running on your computer, just copy the RAW url for the file and paste it at http://nbviewer.ipython.org.
+
 ## Requirements
 
 * Python 2.7.3
